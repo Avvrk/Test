@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+article {
+    background-color: rgba(0, 0, 0, 0.116);
+    padding: 10px 20px 20px 20px;
+    border-radius: 6px;
+}
+
+p {
+    width: 400px; 
+}
